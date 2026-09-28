@@ -1,6 +1,6 @@
 # WellLovely Loader
 
-Manual map injector for the WellLovely DLL into Minecraft 1.8.9 processes.
+Manual map injector for the WellLovely DLL into Minecraft processes.
 
 ## Usage
 
@@ -14,7 +14,3 @@ Manual map injector for the WellLovely DLL into Minecraft 1.8.9 processes.
 
 - Visual Studio 2022+ with C++17
 - Platform: x64 Release
-
-## Disclaimer
-
-For educational purposes only. Use at your own risk.
